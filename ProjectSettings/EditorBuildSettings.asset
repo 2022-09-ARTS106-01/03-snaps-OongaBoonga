@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ArroyoGetsSnappy.unity
+    guid: 423d81a2981581f4d9a73d03b1f14f4d
   m_configObjects: {}
